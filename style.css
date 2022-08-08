@@ -63,5 +63,10 @@ input{
 th,td{
     border: 1px solid var(--secondary-color--);
     text-align: center;
-    padding: 0.4rem 0.5rem;
+}
+
+@media(min-width: 767.9px){
+    th.td{
+        padding: 0.4rem 0.5rem;
+    }
 }
