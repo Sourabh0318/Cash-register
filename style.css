@@ -63,6 +63,7 @@ input{
 th,td{
     border: 1px solid var(--secondary-color--);
     text-align: center;
+    padding: 2px 5px;
 }
 
 @media(min-width: 767.9px){
